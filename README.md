@@ -1,1 +1,1 @@
-# algovisualiser
+# sortingvisualiser
